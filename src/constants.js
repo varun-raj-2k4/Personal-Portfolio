@@ -168,8 +168,8 @@ export const SkillsInfo = [
         "A personal portfolio website showcasing my skills, projects, and experiences. Built with React.js, it features a responsive design, smooth animations, and a user-friendly interface to highlight my work effectively. ",
       image: portfolioLogo,
       tags: ["React JS", "HTML", "CSS", "JavaScript", "Framer Motion"],
-      github: "https://github.com/codingmastr/GitHub-Profile-Search-App-Using-React-JS",
-      webapp: "https://githubprofiledetective.netlify.app/",
+      github: "https://github.com/varun-raj-2k4/Personal-Portfolio",
+      webapp: "https://varunraj2k4.netlify.app/",
     },
     
   ];  
